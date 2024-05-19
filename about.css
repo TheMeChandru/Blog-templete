@@ -70,6 +70,8 @@ Our Team section Styles
   .team .member .member-img img {
     position: relative;
     z-index: 1;
+    height: 280px;
+    width: 340px;
   }
   
   .team .member .member-img .social {
@@ -94,7 +96,7 @@ Our Team section Styles
   }
   
   .team .member .member-img .social a:hover {
-    color: var(--color-primary);
+    color:orange;
   }
   
   .team .member .member-info {
